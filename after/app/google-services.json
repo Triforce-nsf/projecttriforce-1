@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "952569037331",
+    "firebase_url": "https://attendance-manager-4c3e5.firebaseio.com",
+    "project_id": "attendance-manager-4c3e5",
+    "storage_bucket": "attendance-manager-4c3e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952569037331:android:0418a2f9fecb325f",
+        "android_client_info": {
+          "package_name": "com.kayosystem.honki.chapter08.lesson36"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952569037331-ss556l505d4e9d4b3q08pv31hskqs4pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsosd0Ws3WE_4wfN0dQLMO0o6Dtflck0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
